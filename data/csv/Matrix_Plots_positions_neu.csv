@@ -1,0 +1,55 @@
+ID,country,province,site,forestType,topo,plotsize,altitude,UTM.zone.WGS84,utmy,utmx,degslope
+CAJ_US1,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,upper slope,0.04,2891,17M,9545631,702155,35
+CAJ_US2,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,upper slope,0.04,2885,17M,9545656,702160,35
+CAJ_US3,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,upper slope,0.04,2869,17M,9545644,702192,30
+CAJ_US4,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,upper slope,0.04,2886,17M,9545651,701986,30
+CAJ_US5,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,upper slope,0.04,2890,17M,9545649,702012,45
+CAJ_US6,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,upper slope,0.04,2893,17M,9545684,702016,30
+CAJ_MS1,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,mid slope,0.04,2859,17M,9545574,702243,40
+CAJ_MS2,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,mid slope,0.04,2872,17M,9545607,702200,20
+CAJ_MS3,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,mid slope,0.04,2844,17M,9545591,702260,25
+CAJ_MS4,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,mid slope,0.04,2900,17M,9545043,702595,20
+CAJ_MS5,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,mid slope,0.04,2885,17M,9545019,702577,40
+CAJ_MS6,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,mid slope,0.04,2875,17M,9544970,702562,40
+CAJ_LS1,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,lower slope,0.04,2818,17M,9545630,702367,15
+CAJ_LS2,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,lower slope,0.04,2805,17M,9545609,702375,15
+CAJ_LS3,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,lower slope,0.04,2798,17M,9545658,702308,20
+CAJ_LS4,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,lower slope,0.04,2865,17M,9545590,702017,30
+CAJ_LS5,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,lower slope,0.04,2878,17M,9545639,701963,15
+CAJ_LS6,Ecuador,Loja,"Cajanuma, Podocarpus NP",evergreen upper montane forest,lower slope,0.04,2880,17M,9545616,701966,15
+BOM_US1,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,upper slope,0.04,1075,17M,9545001,725696,35
+BOM_US2,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,upper slope,0.04,1066,17M,9544970,725703,35
+BOM_US3,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,upper slope,0.04,1072,17M,9544990,725729,30
+BOM_US4,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,upper slope,0.04,1268,17M,9544210,724474,25
+BOM_US5,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,upper slope,0.04,1257,17M,9544205,724491,20
+BOM_US6,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,upper slope,0.04,1266,17M,9544174,724502,15
+BOM_MS1,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,mid slope,0.04,1132,17M,9544917,725575,30
+BOM_MS2,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,mid slope,0.04,1069,17M,9544605,725315,40
+BOM_MS3,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,mid slope,0.04,1049,17M,9544389,725090,40
+BOM_MS4,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,mid slope,0.04,1140,17M,9544250,724700,35
+BOM_MS5,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,mid slope,0.04,1170,17M,9544140,724620,40
+BOM_MS6,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,mid slope,0.04,1129,17M,9544015,724584,30
+BOM_LS1,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,lower slope,0.04,1020,17M,9544713,725565,35
+BOM_LS2,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,lower slope,0.04,1026,17M,9544705,725544,30
+BOM_LS3,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,lower slope,0.04,1046,17M,9544734,725457,35
+BOM_LS4,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,lower slope,0.04,1054,17M,9544145,724804,20
+BOM_LS5,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,lower slope,0.04,1056,17M,9544137,724763,20
+BOM_LS6,Ecuador,Zamora-Chinchipe,"Bombuscaro, Podocarpus NP",evergreen premontane forest,lower slope,0.04,1044,17M,9544089,724773,25
+SFM_US1,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,upper slope,0.04,2002,17M,9560455,713721,20
+SFM_US2,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,upper slope,0.04,2026,17M,9560391,713726,20
+SFM_US3,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,upper slope,0.04,2089,17M,9560143,713666,30
+SFM_US4,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,upper slope,0.04,2063,17M,9560321,714040,30
+SFM_US5,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,upper slope,0.04,2054,17M,9560354,714028,25
+SFM_US6,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,upper slope,0.04,2039,17M,9560383,714029,30
+SFM_MS1,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,mid slope,0.04,2034,17M,9560242,713648,40
+SFM_MS2,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,mid slope,0.04,1950,17M,9560524,713975,45
+SFM_MS3,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,mid slope,0.04,2027,17M,9560415,713955,50
+SFM_MS4,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,mid slope,0.04,1927,17M,9560480,714146,30
+SFM_MS5,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,mid slope,0.04,1971,17M,9560429,714115,45
+SFM_MS6,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,mid slope,0.04,2020,17M,9560342,714123,35
+SFM_LS1,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,lower slope,0.04,2039,17M,9560235,713688,35
+SFM_LS2,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,lower slope,0.04,1993,17M,9560307,713655,35
+SFM_LS3,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,lower slope,0.04,2020,17M,9560270,713700,35
+SFM_LS4,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,lower slope,0.04,1913,17M,9560505,714170,30
+SFM_LS5,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,lower slope,0.04,1954,17M,9560467,714261,30
+SFM_LS6,Ecuador,Zamora-Chinchipe,San Francisco Reserve,evergreen lower montane forest,lower slope,0.04,1933,17M,9560423,714258,35

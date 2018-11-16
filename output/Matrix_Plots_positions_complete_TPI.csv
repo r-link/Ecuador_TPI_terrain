@@ -1,0 +1,55 @@
+"ID","country","province","site","forestType","topo","plotsize","altitude","UTM.zone.WGS84","utmy","utmx","degslope","tpi_old","tpi_new"
+"CAJ_US1","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","upper slope",0.04,2891,"17M",9545631,702155,35,NA,0.666169683815679
+"CAJ_US2","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","upper slope",0.04,2885,"17M",9545656,702160,35,NA,0.784949705516721
+"CAJ_US3","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","upper slope",0.04,2869,"17M",9545644,702192,30,NA,0.165464100669169
+"CAJ_US4","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","upper slope",0.04,2886,"17M",9545651,701986,30,NA,0.920400115032052
+"CAJ_US5","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","upper slope",0.04,2890,"17M",9545649,702012,45,NA,1.26176763819547
+"CAJ_US6","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","upper slope",0.04,2893,"17M",9545684,702016,30,NA,1.61435647863889
+"CAJ_MS1","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","mid slope",0.04,2859,"17M",9545574,702243,40,NA,-1.14673839335677
+"CAJ_MS2","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","mid slope",0.04,2872,"17M",9545607,702200,20,NA,-0.109162548486516
+"CAJ_MS3","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","mid slope",0.04,2844,"17M",9545591,702260,25,NA,-1.2024312589051
+"CAJ_MS4","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","mid slope",0.04,2900,"17M",9545043,702595,20,NA,-0.243475593661937
+"CAJ_MS5","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","mid slope",0.04,2885,"17M",9545019,702577,40,NA,-0.00844885627548378
+"CAJ_MS6","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","mid slope",0.04,2875,"17M",9544970,702562,40,NA,0.212857685780388
+"CAJ_LS1","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","lower slope",0.04,2818,"17M",9545630,702367,15,NA,-0.67419724678255
+"CAJ_LS2","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","lower slope",0.04,2805,"17M",9545609,702375,15,NA,-0.846044416088486
+"CAJ_LS3","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","lower slope",0.04,2798,"17M",9545658,702308,20,NA,-0.941810773764228
+"CAJ_LS4","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","lower slope",0.04,2865,"17M",9545590,702017,30,NA,0.719048826648568
+"CAJ_LS5","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","lower slope",0.04,2878,"17M",9545639,701963,15,NA,0.435482963095225
+"CAJ_LS6","Ecuador","Loja","Cajanuma, Podocarpus NP","evergreen upper montane forest","lower slope",0.04,2880,"17M",9545616,701966,15,NA,0.204404815762752
+"BOM_US1","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","upper slope",0.04,1075,"17M",9545001,725696,35,NA,0.358312380004608
+"BOM_US2","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","upper slope",0.04,1066,"17M",9544970,725703,35,NA,-0.541699141959604
+"BOM_US3","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","upper slope",0.04,1072,"17M",9544990,725729,30,NA,0.450943761213573
+"BOM_US4","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","upper slope",0.04,1268,"17M",9544210,724474,25,NA,0.123436423229854
+"BOM_US5","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","upper slope",0.04,1257,"17M",9544205,724491,20,NA,0.474284188551463
+"BOM_US6","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","upper slope",0.04,1266,"17M",9544174,724502,15,NA,0.485028874545587
+"BOM_MS1","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","mid slope",0.04,1132,"17M",9544917,725575,30,NA,-0.00973105041428334
+"BOM_MS2","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","mid slope",0.04,1069,"17M",9544605,725315,40,NA,-0.994393838782346
+"BOM_MS3","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","mid slope",0.04,1049,"17M",9544389,725090,40,NA,-1.55958001292052
+"BOM_MS4","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","mid slope",0.04,1140,"17M",9544250,724700,35,NA,-1.68602541435219
+"BOM_MS5","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","mid slope",0.04,1170,"17M",9544140,724620,40,NA,0.00422973992174125
+"BOM_MS6","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","mid slope",0.04,1129,"17M",9544015,724584,30,NA,-0.85815274512137
+"BOM_LS1","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","lower slope",0.04,1020,"17M",9544713,725565,35,NA,-1.29317888348686
+"BOM_LS2","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","lower slope",0.04,1026,"17M",9544705,725544,30,NA,-1.39454691085985
+"BOM_LS3","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","lower slope",0.04,1046,"17M",9544734,725457,35,NA,-1.19003384843515
+"BOM_LS4","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","lower slope",0.04,1054,"17M",9544145,724804,20,NA,-1.15466558735979
+"BOM_LS5","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","lower slope",0.04,1056,"17M",9544137,724763,20,NA,-1.18159310706771
+"BOM_LS6","Ecuador","Zamora-Chinchipe","Bombuscaro, Podocarpus NP","evergreen premontane forest","lower slope",0.04,1044,"17M",9544089,724773,25,NA,-1.44839902717534
+"SFM_US1","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","upper slope",0.04,2002,"17M",9560455,713721,20,1.0156078338623,1.1506257202462
+"SFM_US2","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","upper slope",0.04,2026,"17M",9560391,713726,20,0.998559862375259,1.09964376051021
+"SFM_US3","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","upper slope",0.04,2089,"17M",9560143,713666,30,0.552811354398727,0.659740027499244
+"SFM_US4","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","upper slope",0.04,2063,"17M",9560321,714040,30,0.74371811747551,0.761426673280571
+"SFM_US5","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","upper slope",0.04,2054,"17M",9560354,714028,25,1.02576249837875,1.13905785477566
+"SFM_US6","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","upper slope",0.04,2039,"17M",9560383,714029,30,1.04935249686241,1.20627008072575
+"SFM_MS1","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","mid slope",0.04,2034,"17M",9560242,713648,40,-0.00393486954271793,-0.0183559481876057
+"SFM_MS2","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","mid slope",0.04,1950,"17M",9560524,713975,45,-0.222551994025707,-0.300753699130654
+"SFM_MS3","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","mid slope",0.04,2027,"17M",9560415,713955,50,0.224016681313515,0.141729122407738
+"SFM_MS4","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","mid slope",0.04,1927,"17M",9560480,714146,30,-0.595499694347382,-0.796605891508645
+"SFM_MS5","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","mid slope",0.04,1971,"17M",9560429,714115,45,-0.35069540143013,-0.29218638831365
+"SFM_MS6","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","mid slope",0.04,2020,"17M",9560342,714123,35,-0.304296627640724,-0.366616439111289
+"SFM_LS1","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","lower slope",0.04,2039,"17M",9560235,713688,35,-0.0351798357442021,-0.0103058206097702
+"SFM_LS2","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","lower slope",0.04,1993,"17M",9560307,713655,35,-0.471847772598267,-0.538349468730141
+"SFM_LS3","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","lower slope",0.04,2020,"17M",9560270,713700,35,-0.340657949447632,-0.332169511902799
+"SFM_LS4","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","lower slope",0.04,1913,"17M",9560505,714170,30,-0.988327026367188,-1.1092903749556
+"SFM_LS5","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","lower slope",0.04,1954,"17M",9560467,714261,30,-0.442184567451477,-0.489617219069389
+"SFM_LS6","Ecuador","Zamora-Chinchipe","San Francisco Reserve","evergreen lower montane forest","lower slope",0.04,1933,"17M",9560423,714258,35,-0.344485461711884,-0.347906813870844
