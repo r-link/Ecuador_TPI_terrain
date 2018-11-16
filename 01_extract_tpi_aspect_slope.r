@@ -50,7 +50,7 @@ head(pos)
 
 coordinates(pos) <- ~utmx + utmy
 crs <- "+proj=utm +zone=17 +south +ellps=WGS84 +datum=WGS84 +units=m +no_defs +towgs84=0,0,0"
-projection(pos)<- CRS(crs)
+projection(pos) <- CRS(crs)
 
 # load full digital elevation model from Ungerechts, 2010
 dem <- raster("rasters/Ungerechts 2010/ortho_bw_dgm_10m.asc",
